@@ -44,7 +44,7 @@
       "tempy": "^0.6.0",
       "upath": "^1.2.0",
       "workbox-background-sync": "6.4.2",
-      "workbox-broadcast-update": "6.4.2",
+      "workbox-broadcast-update": "6.6.0",
       "workbox-cacheable-response": "6.4.2",
       "workbox-core": "6.4.2",
       "workbox-expiration": "6.4.2",
