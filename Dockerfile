@@ -1,4 +1,4 @@
-FROM ubuntu:23.04
+FROM ubuntu:mantic-20240416
 
 RUN apt-get update && \
     apt-get install -y git && \
